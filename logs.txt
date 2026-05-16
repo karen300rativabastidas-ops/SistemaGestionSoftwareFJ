@@ -1,0 +1,5 @@
+2026-05-16 13:33:52,875 - ERROR - El nombre no puede estar vacío
+2026-05-16 13:37:54,532 - ERROR - El nombre no puede estar vacío
+2026-05-16 13:43:49,971 - ERROR - El nombre no puede estar vacío
+2026-05-16 13:50:49,824 - ERROR - El nombre no puede estar vacío
+2026-05-16 14:17:42,764 - ERROR - El nombre no puede estar vacío
