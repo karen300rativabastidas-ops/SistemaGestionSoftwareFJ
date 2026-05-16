@@ -1,4 +1,4 @@
-# Sistema Integral de Gestión - Software FJ
+# SistemaGestiónSoftwareFJ
 
 Proyecto desarrollado en Python utilizando Programación Orientada a Objetos.
 
@@ -29,11 +29,3 @@ Proyecto desarrollado en Python utilizando Programación Orientada a Objetos.
 ```bash
 python main.py
 
----
-
-# GUARDAR
-
-Presiona:
-
-```txt id="jlwm9f"
-Ctrl + S
